@@ -7,7 +7,7 @@ Dorian Ticona</a></h1>
 <img align="right" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/QXwtfadqo7wbfmT46H/giphy.gif?cid=ecf05e47yif5n9kof0sp3vfhuz2xsg07geeit6z9msgt8tpm&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 <!-- <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">-->
 
-<p>
+<p align="left">
   
   - 📚 I'm studying Computer System Engineering.
   
