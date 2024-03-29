@@ -6,34 +6,34 @@
 <!-- <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">-->
 
 <div id="user-content-toc">
-  <ul>
+  <ul align="center">
     <summary><h2 style="display: inline-block"><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width=50px>  About me</h2></summary>
   </ul>
 </div>
+
+<ul align="center">
   
-- 📚 I'm studying Computer Systems Engineering.
-
-- 🌱 I'm currently learning ReactJs && NodeJs <a href="#" target="blank">Proyectos maybe</a>
-
-- 🤝 I'm available for freelancing.
-
-<!--- 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)  -->
-
-- 💬 Ask me about **ReactJs & NodeJs**
-
-- 📄 Know about my experiences <a href="#" target="blank">Resume</a>
-
-- ⚡ Fun fact: I really like to walk 🚶‍♂️
-
-<br/>
+📚 I'm studying Computer Systems Engineering.
+  
+🌱 I'm currently learning ReactJs && NodeJs <a href="#" target="blank">Proyectos maybe</a>.
+  
+🤝 I'm available for freelancing.
+  
+💬 Ask me about **ReactJs & NodeJs**.
+  
+📄 Know about my experiences <a href="#" target="blank">Resume</a>.
+  
+⚡ Fun fact: I really like to walk 🚶‍♂️.
+</ul>
 
 <div id="user-content-toc">
-  <ul>
+  <ul align="center">
     <summary><h2 style="display: inline-block">👨🏻‍💻 Technologies That I Know</h2></summary>
   </ul>
 </div>
 
-<p>
+
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,linux,md,idea,java,cpp,py,discord,figma,postman,vscode,html,css,js,nodejs,express,mongodb,mysql,react,redux,nextjs,tailwind,materialui&perline=14" />
   </a>
@@ -41,12 +41,8 @@
 
 
 <!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
