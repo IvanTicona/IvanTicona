@@ -5,7 +5,11 @@
 <!--<img height="300" width="400" alt="GIF" src="https://media.giphy.com/media/QXwtfadqo7wbfmT46H/giphy.gif?cid=ecf05e47yif5n9kof0sp3vfhuz2xsg07geeit6z9msgt8tpm&ep=v1_gifs_search&rid=giphy.gif&ct=g">-->
 <!-- <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">-->
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+<div id="user-content-toc">
+  <ul>
+    <summary><h2 style="display: inline-block"><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width=50px>  About me</h2></summary>
+  </ul>
+</div>
   
 - 📚 I'm studying Computer Systems Engineering.
 
@@ -13,7 +17,7 @@
 
 - 🤝 I'm available for freelancing.
 
-- 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
+<!--- 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)  -->
 
 - 💬 Ask me about **ReactJs & NodeJs**
 
@@ -22,6 +26,18 @@
 - ⚡ Fun fact: I really like to walk 🚶‍♂️
 
 <br/>
+
+<div id="user-content-toc">
+  <ul>
+    <summary><h2 style="display: inline-block">👨🏻‍💻 Technologies That I Know</h2></summary>
+  </ul>
+</div>
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,linux,md,idea,java,cpp,py,discord,figma,postman,vscode,html,css,js,nodejs,express,mongodb,mysql,react,redux,nextjs,tailwind,materialui&perline=14" />
+  </a>
+</p>
 
 
 <!--
