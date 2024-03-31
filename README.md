@@ -15,13 +15,13 @@
   
 📚 I'm studying Computer Systems Engineering.
   
-🌱 I'm currently learning ReactJs && NodeJs <a href="#" target="blank">Proyectos maybe</a>.
+🌱 I'm currently learning ReactJs && NodeJs <!--<a href="#" target="blank">Proyectos maybe</a>.-->
   
 🤝 I'm available for freelancing.
   
-💬 Ask me about **ReactJs & NodeJs**.
+<!--💬 Ask me about **ReactJs & NodeJs**.-->
   
-📄 Know about my experiences <a href="#" target="blank">Resume</a>.
+<!--📄 Know about my experiences <a href="#" target="blank">Resume</a>.-->
   
 ⚡ Fun fact: I really like to walk 🚶‍♂️.
 </ul>
