@@ -15,7 +15,7 @@
   
 📚 I'm studying Computer Systems Engineering.
   
-🌱 I'm currently learning ReactJs && NodeJs <!--<a href="#" target="blank">Proyectos maybe</a>.-->
+🌱 I'm currently learning ReactJs && NodeJs. <!--<a href="#" target="blank">Proyectos maybe</a>.-->
   
 🤝 I'm available for freelancing.
   
