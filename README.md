@@ -17,7 +17,7 @@
   
 🌱 I'm currently learning ReactJs && NodeJs. <!--<a href="#" target="blank">Proyectos maybe</a>.-->
   
-🤝 I'm available for freelancing.
+<!--🤝 I'm available for freelancing.-->
   
 <!--💬 Ask me about **ReactJs & NodeJs**.-->
   
